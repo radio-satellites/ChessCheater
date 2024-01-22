@@ -10,8 +10,8 @@
 #define EPD_RESET   6
 #define EPD_SPI &SPI // primary SPI
 
-const char* ssid = "CC_WIFI";
-const char* password = "Baguette23!";
+const char* ssid = "SSID";
+const char* password = "PASSWORD";
 
 String serverName = "http://192.168.137.1:8080";
 
